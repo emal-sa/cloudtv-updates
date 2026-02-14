@@ -1,8 +1,8 @@
 {
-  "versionCode": 28,
-  "versionName": "1.0.28",
-  "apkUrl": "https://raw.githubusercontent.com/emal-sa/cloudtv-updates/main/apk/cloud-tv-v1.0.28.apk",
-  "sha256": "a2e863006997e0b3bbc6675e18a91c72212db466239c431d16091e9384509b8b",
-  "changelog": "feat: enforce versionCode and versionName requirements for release builds; add local fallback defaults",
+  "versionCode": 29,
+  "versionName": "1.0.29",
+  "apkUrl": "https://raw.githubusercontent.com/emal-sa/cloudtv-updates/main/apk/cloud-tv-v1.0.29.apk",
+  "sha256": "0d22fcc88b23c861e2299ff264f959d069ca67f06027f4f024c7868ca4634f55",
+  "changelog": "feat: implement PIN code management and update policies for mandatory updates; enhance security checks and validation",
   "releaseDate": "2026-02-14"
 }
