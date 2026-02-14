@@ -1,8 +1,8 @@
 {
-  "versionCode": 21,
-  "versionName": "1.0.21",
-  "apkUrl": "https://raw.githubusercontent.com/emal-sa/cloudtv-updates/main/apk/cloud-tv-v1.0.21.apk",
-  "sha256": "62002c6e8a133441236e55282fa703e8fff1be75e2b1f5a28cde445f3ca65179",
-  "changelog": "fix: update UPDATES_REPOSITORY to use secrets in release workflow and refine documentation",
+  "versionCode": 22,
+  "versionName": "1.0.22",
+  "apkUrl": "https://raw.githubusercontent.com/emal-sa/cloudtv-updates/main/apk/cloud-tv-v1.0.22.apk",
+  "sha256": "cb539c0ec96b05e948a0c3f5e7b5f92fa6c829af05c6162965187edc6c55a744",
+  "changelog": "fix: update repository name in build configuration",
   "releaseDate": "2026-02-14"
 }
