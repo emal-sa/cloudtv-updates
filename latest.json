@@ -1,8 +1,8 @@
 {
-  "versionCode": 25,
-  "versionName": "1.0.25",
-  "apkUrl": "https://raw.githubusercontent.com/emal-sa/cloudtv-updates/main/apk/cloud-tv-v1.0.25.apk",
-  "sha256": "0de943fbf38d2419a37fb1980de562a6bb9df5b4a43921d09e54073cae8cc3f3",
-  "changelog": "feat: Add photo viewing functionality and refactor media handling",
+  "versionCode": 26,
+  "versionName": "1.0.26",
+  "apkUrl": "https://raw.githubusercontent.com/emal-sa/cloudtv-updates/main/apk/cloud-tv-v1.0.26.apk",
+  "sha256": "be0272f39871bc56890c1ea316f7ea02723779a1f59015086651c3e5e81c3f67",
+  "changelog": "feat: Enhance media caching with legacy fallback support for videos and photos",
   "releaseDate": "2026-02-14"
 }
