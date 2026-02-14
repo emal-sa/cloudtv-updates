@@ -1,8 +1,8 @@
 {
-  "versionCode": 23,
-  "versionName": "1.0.23",
-  "apkUrl": "https://raw.githubusercontent.com/emal-sa/cloudtv-updates/main/apk/cloud-tv-v1.0.23.apk",
-  "sha256": "a4281e4e39b9d685daa82627dfc4784d92e22c36d384643dc07aa9aed8cb93c1",
-  "changelog": "feat: implement video caching and warmup mechanisms; enhance media playback performance",
+  "versionCode": 24,
+  "versionName": "1.0.24",
+  "apkUrl": "https://raw.githubusercontent.com/emal-sa/cloudtv-updates/main/apk/cloud-tv-v1.0.24.apk",
+  "sha256": "d5cb87074bfe86494907b115beb130fb375c09d355cd0460d497d6d02a415917",
+  "changelog": "feat: add key event handling for media seek actions in PlaybackVideoFragment",
   "releaseDate": "2026-02-14"
 }
