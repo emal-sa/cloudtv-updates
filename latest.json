@@ -1,8 +1,8 @@
 {
-  "versionCode": 30,
-  "versionName": "1.0.30",
-  "apkUrl": "https://raw.githubusercontent.com/emal-sa/cloudtv-updates/main/apk/cloud-tv-v1.0.30.apk",
-  "sha256": "acb6e8361d47994088b7991a1c0be212e52bd3324c409cce33b7726e4c0627e7",
-  "changelog": "feat: simplify back navigation logic in PlaybackActivity; remove unnecessary controls overlay check",
+  "versionCode": 31,
+  "versionName": "1.0.31",
+  "apkUrl": "https://raw.githubusercontent.com/emal-sa/cloudtv-updates/main/apk/cloud-tv-v1.0.31.apk",
+  "sha256": "f046be0da9d9caef221bcb2a4916c431c4abc403c26ff85edc86a2ef225653ba",
+  "changelog": "feat:  - enhance photo viewing experience  - support multiple photos and navigation in PhotoViewerActivity",
   "releaseDate": "2026-02-15"
 }
