@@ -1,8 +1,8 @@
 {
-  "versionCode": 32,
-  "versionName": "1.0.32",
-  "apkUrl": "https://raw.githubusercontent.com/emal-sa/cloudtv-updates/main/apk/cloud-tv-v1.0.32.apk",
-  "sha256": "d65710905dbe39a50126d7a1148b525327bdd06d274dcdc037694832d2071d5f",
-  "changelog": "feat: implement media refresh functionality; add loading states and error handling",
-  "releaseDate": "2026-02-15"
+  "versionCode": 33,
+  "versionName": "1.0.33",
+  "apkUrl": "https://raw.githubusercontent.com/emal-sa/cloudtv-updates/main/apk/cloud-tv-v1.0.33.apk",
+  "sha256": "5d8073a6355621f598b0e033dcb58348cf724b234fa6be55fc9ca4d796cc77c5",
+  "changelog": "feat: implement Google token expiration handling; add user prompts and update media result structure",
+  "releaseDate": "2026-02-21"
 }
