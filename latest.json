@@ -1,8 +1,8 @@
 {
-  "versionCode": 37,
-  "versionName": "1.0.37",
-  "apkUrl": "https://raw.githubusercontent.com/emal-sa/cloudtv-updates/main/apk/cloud-tv-v1.0.37.apk",
-  "sha256": "57f55417bfcc4de95bbcd04081b1ff2e560844b703c53e82e7f40fa89e436bf6",
-  "changelog": "feat: update ProgressBar styles in BrowseErrorActivity and layout files; add indeterminate tint for better visibility",
+  "versionCode": 39,
+  "versionName": "1.0.39",
+  "apkUrl": "https://raw.githubusercontent.com/emal-sa/cloudtv-updates/main/apk/cloud-tv-v1.0.39.apk",
+  "sha256": "24e67a7c06a3151004c90b5ee024eb8152adb4b531177ad8b9ce257b9afba193",
+  "changelog": "feat: add API level check in verifySignatureWithSigningInfo; ensure compatibility with pre-P versions",
   "releaseDate": "2026-02-22"
 }
