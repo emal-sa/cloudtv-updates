@@ -1,8 +1,8 @@
 {
-  "versionCode": 35,
-  "versionName": "1.0.35",
-  "apkUrl": "https://raw.githubusercontent.com/emal-sa/cloudtv-updates/main/apk/cloud-tv-v1.0.35.apk",
-  "sha256": "9e4ef7a4fdcb9d86af02050b48df00aab79c3fe2ce474e9bb1a201802d7e1feb",
-  "changelog": "feat: add validation for ADMIN_API_KEY in release workflow; update deployment target selection timestamp and device identifier",
-  "releaseDate": "2026-02-21"
+  "versionCode": 36,
+  "versionName": "1.0.36",
+  "apkUrl": "https://raw.githubusercontent.com/emal-sa/cloudtv-updates/main/apk/cloud-tv-v1.0.36.apk",
+  "sha256": "3926556f3cba5a14bfd4d84341191c38e9c29635873a11d80c414695f503c8b1",
+  "changelog": "feat: improve fragment management in TokenExpiredPromptFragment; replace removal logic with transaction handling",
+  "releaseDate": "2026-02-22"
 }
